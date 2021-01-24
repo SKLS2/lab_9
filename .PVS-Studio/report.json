@@ -1,0 +1,76 @@
+{
+  "warnings": [
+    {
+      "code": "V6008",
+      "cwe": 690,
+      "level": 3,
+      "positions": [
+        {
+          "file": "C:\\Users\\sasha\\Desktop\\Tetris---Java\\Tetris---Java\\src\\main\\Board.java",
+          "line": 91,
+          "endLine": 91,
+          "column": 3,
+          "endColumn": 7,
+          "navigation": {
+            "previousLine": 0,
+            "currentLine": 2080479421,
+            "nextLine": 0,
+            "columns": 37
+          }
+        }
+      ],
+      "message": "Potential null dereference of \u0027music\u0027.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V6098",
+      "cwe": 0,
+      "level": 2,
+      "positions": [
+        {
+          "file": "C:\\Users\\sasha\\Desktop\\Tetris---Java\\Tetris---Java\\src\\main\\Board.java",
+          "line": 163,
+          "endLine": 242,
+          "column": 14,
+          "endColumn": 2,
+          "navigation": {
+            "previousLine": 0,
+            "currentLine": 248983783,
+            "nextLine": 790550389,
+            "columns": 40
+          }
+        }
+      ],
+      "message": "The \u0027paintComponent\u0027 method does not override the method from the \u0027JComponent\u0027 class because the type of the first parameter is inconsistent.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V6016",
+      "cwe": 0,
+      "level": 1,
+      "positions": [
+        {
+          "file": "C:\\Users\\sasha\\Desktop\\Tetris---Java\\Tetris---Java\\src\\main\\Shape.java",
+          "line": 162,
+          "endLine": 162,
+          "column": 15,
+          "endColumn": 33,
+          "navigation": {
+            "previousLine": 125,
+            "currentLine": -1233010286,
+            "nextLine": 5565,
+            "columns": 41
+          }
+        }
+      ],
+      "message": "Suspicious access to element of \u0027board.getBoard()\u0027 object by a constant index inside a loop.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    }
+  ]
+}

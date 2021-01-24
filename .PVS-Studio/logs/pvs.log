@@ -1,0 +1,49 @@
+2021-01-23 20:46:24 [INFO ] c.p.r.NativeLoader:63 - ********************************
+2021-01-23 20:46:24 [INFO ] c.p.r.NativeLoader:64 - Native library search paths: 
+2021-01-23 20:46:24 [INFO ] c.p.r.NativeLoader:948 - C:\Users\sasha\AppData\Roaming\PVS-Studio-Java\7.11.44138
+2021-01-23 20:46:24 [INFO ] c.p.r.NativeLoader:948 - .
+2021-01-23 20:46:24 [INFO ] c.p.r.NativeLoader:948 - C:\Users\sasha\AppData\Roaming\PVS-Studio-Java\7.11.44138\..
+2021-01-23 20:46:24 [INFO ] c.p.r.NativeLoader:948 - C:\Users\sasha\AppData\Roaming\PVS-Studio-Java\7.11.44138\..\..
+2021-01-23 20:46:24 [INFO ] c.p.r.NativeLoader:948 - C:\Users\sasha\AppData\Roaming\PVS-Studio-Java\7.11.44138\..\..\build
+2021-01-23 20:46:24 [INFO ] c.p.r.NativeLoader:66 - Additional path: native/win
+2021-01-23 20:46:24 [INFO ] c.p.r.NativeLoader:75 - Native library found: C:\Users\sasha\AppData\Roaming\PVS-Studio-Java\7.11.44138\native\win\analysis-core.dll
+2021-01-23 20:46:24 [INFO ] c.p.r.NativeLoader:76 - ********************************
+2021-01-23 20:46:25 [INFO ] c.p.p.JsonEvaluator:48 - Module: Tetris
+2021-01-23 20:46:25 [INFO ] c.p.p.JsonEvaluator:49 - Sources:
+2021-01-23 20:46:25 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/sasha/Desktop/Tetris---Java/Tetris---Java/src
+2021-01-23 20:46:25 [INFO ] c.p.p.JsonEvaluator:51 - Classpath:
+2021-01-23 20:46:25 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/sasha/.jdks/corretto-1.8.0_282/jre/lib/ext/access-bridge-64.jar
+2021-01-23 20:46:25 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/sasha/.jdks/corretto-1.8.0_282/jre/lib/jfxswt.jar
+2021-01-23 20:46:25 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/sasha/.jdks/corretto-1.8.0_282/jre/lib/jce.jar
+2021-01-23 20:46:25 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/sasha/.jdks/corretto-1.8.0_282/jre/lib/rt.jar
+2021-01-23 20:46:25 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/sasha/.jdks/corretto-1.8.0_282/jre/lib/ext/sunec.jar
+2021-01-23 20:46:25 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/sasha/.jdks/corretto-1.8.0_282/jre/lib/ext/sunpkcs11.jar
+2021-01-23 20:46:25 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/sasha/.jdks/corretto-1.8.0_282/jre/lib/management-agent.jar
+2021-01-23 20:46:25 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/sasha/.jdks/corretto-1.8.0_282/jre/lib/ext/sunmscapi.jar
+2021-01-23 20:46:25 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/sasha/.jdks/corretto-1.8.0_282/jre/lib/charsets.jar
+2021-01-23 20:46:25 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/sasha/.jdks/corretto-1.8.0_282/jre/lib/jsse.jar
+2021-01-23 20:46:25 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/sasha/.jdks/corretto-1.8.0_282/jre/lib/ext/cldrdata.jar
+2021-01-23 20:46:25 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/sasha/.jdks/corretto-1.8.0_282/jre/lib/ext/localedata.jar
+2021-01-23 20:46:25 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/sasha/.jdks/corretto-1.8.0_282/jre/lib/jfr.jar
+2021-01-23 20:46:25 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/sasha/.jdks/corretto-1.8.0_282/jre/lib/resources.jar
+2021-01-23 20:46:25 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/sasha/.jdks/corretto-1.8.0_282/jre/lib/ext/sunjce_provider.jar
+2021-01-23 20:46:25 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/sasha/.jdks/corretto-1.8.0_282/jre/lib/ext/nashorn.jar
+2021-01-23 20:46:25 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/sasha/Desktop/Tetris---Java/Tetris---Java/textures
+2021-01-23 20:46:25 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/sasha/.jdks/corretto-1.8.0_282/jre/lib/ext/jaccess.jar
+2021-01-23 20:46:25 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/sasha/.jdks/corretto-1.8.0_282/jre/lib/ext/dnsns.jar
+2021-01-23 20:46:25 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/sasha/.jdks/corretto-1.8.0_282/jre/lib/ext/jfxrt.jar
+2021-01-23 20:46:25 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/sasha/.jdks/corretto-1.8.0_282/jre/lib/ext/zipfs.jar
+2021-01-23 20:46:26 [INFO ] c.p.p.IncrementalLauncher:178 - Build model from scratch...
+2021-01-23 20:46:27 [INFO ] c.p.p.IncrementalLauncher:303 - Cache saving started.
+2021-01-23 20:46:28 [WARN ] c.p.p.IncrementalLauncher:310 - Spoon compile error: The package javax.sound.sampled is accessible from more than one module: <unnamed>, java.desktop at C:\Users\sasha\Desktop\Tetris---Java\Tetris---Java\src\main\Board.java:5
+spoon.support.compiler.SnippetCompilationError: The package javax.sound.sampled is accessible from more than one module: <unnamed>, java.desktop at C:\Users\sasha\Desktop\Tetris---Java\Tetris---Java\src\main\Board.java:5
+	at spoon.support.compiler.jdt.JDTBasedSpoonCompiler.reportProblemsWhenCompiling(JDTBasedSpoonCompiler.java:609)
+	at spoon.support.compiler.jdt.JDTBasedSpoonCompiler.compile(JDTBasedSpoonCompiler.java:167)
+	at com.pvsstudio.projects.IncrementalLauncher.saveCache(IncrementalLauncher.java:306)
+	at com.pvsstudio.projects.Module.build(Module.java:384)
+	at com.pvsstudio.runner.ModuleWorker.run(ModuleWorker.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2021-01-23 20:46:28 [INFO ] c.p.p.IncrementalLauncher:346 - Cache saving finished.
+2021-01-23 20:46:28 [INFO ] c.p.p.Module:388 - Model build success.
